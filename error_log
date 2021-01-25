@@ -1,0 +1,30 @@
+[07-Feb-2019 06:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(927): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-du in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[07-Feb-2019 07:03:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(927): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-du in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[07-Feb-2019 07:04:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(927): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-du in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[07-Feb-2019 07:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(927): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(525): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/CliDumper.php(245): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Cloner/Data.php(365): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'PHP's json exte...', false, 0)
+#4 /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-du in /home/systeifx/tailor.new.systemtrpt.com/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[14-Feb-2019 05:36:10 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lashtitx/tailor.lashandnailboutique.com/storage/framework/views/072c5f9f376d63b3063b1e43ef01e6b73e59e2d0.php on line 173
+[12-Mar-2019 07:13:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/lashtitx/demo.lashandnailboutique.com/storage/framework/views/e14beb60592f69d96e9a7a3430d1928dba4e4ad0.php on line 147
