@@ -29,8 +29,7 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
-// Hi i am trying to update the github repositry through phpstorm
-// Are you testing the commit puxh system
+// Nothing to change in the area of epostry new
 $uri = urldecode(
     parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH)
 );
