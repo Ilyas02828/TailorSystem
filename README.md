@@ -2,7 +2,6 @@
 
 ## About this application
 
-This application is created by MD INZAMUL HAQUE. This is a simple tailor shop management system. <br>
 ##### Framework: Laravel 5.4
 ##### Language : PHP 5.7
 
@@ -24,21 +23,20 @@ php artisan migrate
 # Contact me 
 Facebook: facebook.com/ilyas02828 <br>
 Email: ilyas02828@gmail.com
+
 # NewRepositry
-"# NewRepositry" 
-"# TailorSystem" 
+# NewRepositry
 # TailorSystem
 # TailorSystem
 # TailorSystem
-"# TailorSystemLocal" 
-"# TailorSystemLocal" 
-"#CustomTailoring"
-"#OrderTracking"
-"#InventoryManagement"
-"#AppointmentScheduling"
-"#CustomerDatabase"
-"#MeasurementRecords"
-"#FabricInventory"
-"#SeamstressManagement"
-"#BillingAndInvoicing"
-"#WorkflowAutomation"
+# TailorSystem
+# CustomTailoring
+# OrderTracking
+# InventoryManagement
+# AppointmentScheduling
+# CustomerDatabase
+# MeasurementRecords
+# FabricInventory
+# SeamstressManagement
+# BillingAndInvoicing
+# WorkflowAutomation
