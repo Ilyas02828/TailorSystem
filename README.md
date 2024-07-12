@@ -1,4 +1,4 @@
-# A Simple Tailor Shop Management System LILY TMS
+# A Simple Tailor Shop Management System
 
 ## About this application
 
@@ -20,13 +20,11 @@ php artisan migrate
 - Sign Up by replacing "login" to "register" from address bar and add all informations.
 
 
-## Live Demo
-
-##### Live Link: http://lily-tms.herokuapp.com
 
 # Contact me 
-Facebook: facebook.com/inzamul36 <br>
-Email: inzamul36@gmail.com, inzamuk36@live.com, inzamul36@yahoo.com, inzamul36@hotmail.com    # NewRepositry
+Facebook: facebook.com/ilyas02828 <br>
+Email: ilyas02828@gmail.com
+# NewRepositry
 "# NewRepositry" 
 "# TailorSystem" 
 # TailorSystem
