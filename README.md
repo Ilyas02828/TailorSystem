@@ -32,3 +32,13 @@ Email: ilyas02828@gmail.com
 # TailorSystem
 "# TailorSystemLocal" 
 "# TailorSystemLocal" 
+#CustomTailoring
+#OrderTracking
+#InventoryManagement
+#AppointmentScheduling
+#CustomerDatabase
+#MeasurementRecords
+#FabricInventory
+#SeamstressManagement
+#BillingAndInvoicing
+#WorkflowAutomation
